@@ -1,8 +1,9 @@
-# smart_drawer
+# SmartDrawer
 
 Menu drawer
 
-## Getting Started
+![Screen_Recording_20210606-113240_1](https://user-images.githubusercontent.com/12680909/120934878-72824700-c700-11eb-90d0-20d7b6dd5a63.gif)
+
 
 This project is a starting point for a Dart
 [package](https://flutter.dev/developing-packages/),
